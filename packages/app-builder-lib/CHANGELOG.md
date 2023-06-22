@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 24.5.1
+
+### Patch Changes
+
+- [#7622](https://github.com/electron-userland/electron-builder/pull/7622) [`46524169`](https://github.com/electron-userland/electron-builder/commit/46524169cefbfa18e342d7fa19e79e710aae848e) Thanks [@mmaietta](https://github.com/mmaietta)! - fix(mac): use Identity `hash` instead of `name` if it exists
+
 ## 24.5.0
 
 ### Minor Changes
